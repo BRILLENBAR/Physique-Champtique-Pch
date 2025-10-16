@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 4200 2970" role="img" aria-label="Schema complet Architecture Brillenbar.org - format A3 horizontal">
+  <rect width="4200" height="2970" fill="#ffffff"/>
+  <defs>
+    <marker id="arrow1" markerWidth="30" markerHeight="30" refX="15" refY="15" orient="auto">
+      <polygon points="0,0 30,15 0,30" fill="#0078d7"/>
+    </marker>
+    <marker id="arrow2" markerWidth="30" markerHeight="30" refX="15" refY="15" orient="auto">
+      <polygon points="0,0 30,15 0,30" fill="#00a36f"/>
+    </marker>
+  </defs>
+
+  <text x="2100" y="180" text-anchor="middle" font-size="80" font-family="Arial" font-weight="bold" fill="#111">Architecture Brillenbar.org - Portail unifie a deux entrees</text>
+  <text x="2100" y="280" text-anchor="middle" font-size="42" font-family="Arial" fill="#555">Modele C : Page d'accueil -> Vision et Humanisme | Recherche et Physique Champtique (Pch)</text>
+
+  <rect x="1350" y="420" width="1500" height="250" fill="#e6f2ff" stroke="#94b6d6" stroke-width="4" rx="40"/>
+  <text x="2100" y="560" text-anchor="middle" font-size="56" font-family="Arial" font-weight="bold" fill="#000">BRILLENBAR.ORG</text>
+  <text x="2100" y="620" text-anchor="middle" font-size="40" font-family="Arial" fill="#333">Portail vivant (accueil avec deux entrees)</text>
+
+  <line x1="2100" y1="670" x2="1050" y2="1020" stroke="#0078d7" stroke-width="6" marker-end="url(#arrow1)"/>
+  <line x1="2100" y1="670" x2="3150" y2="1020" stroke="#00a36f" stroke-width="6" marker-end="url(#arrow2)"/>
+
+  <rect x="400" y="1020" width="1200" height="480" fill="#f8fbff" stroke="#b5c4d8" stroke-width="4" rx="40"/>
+  <text x="1000" y="1170" text-anchor="middle" font-size="50" font-family="Arial" font-weight="bold" fill="#000">Vision et Humanisme</text>
+  <text x="1000" y="1240" text-anchor="middle" font-size="36" font-family="Arial" fill="#333">Conscience - Monde meilleur - Agropolis - Paix - CU</text>
+  <rect x="500" y="1280" width="1000" height="120" fill="#eef3ff" stroke="#b5c4d8" stroke-width="3" rx="30"/>
+  <text x="1000" y="1350" text-anchor="middle" font-size="34" font-family="Arial" fill="#555">Hebergement local sur brillenbar.org</text>
+
+  <rect x="2600" y="1020" width="1200" height="520" fill="#f8fbff" stroke="#b5c4d8" stroke-width="4" rx="40"/>
+  <text x="3200" y="1170" text-anchor="middle" font-size="50" font-family="Arial" font-weight="bold" fill="#000">Recherche et Physique Champtique</text>
+  <text x="3200" y="1240" text-anchor="middle" font-size="36" font-family="Arial" fill="#333">Champ fondamental - Information - Coherence</text>
+  <rect x="2700" y="1280" width="1000" height="100" fill="#eef3ff" stroke="#b5c4d8" stroke-width="3" rx="30"/>
+  <text x="3200" y="1340" text-anchor="middle" font-size="34" font-family="Arial" fill="#555">Heberge via GitHub Pages</text>
+
+  <rect x="2600" y="1780" width="1200" height="500" fill="#eaf8ef" stroke="#94c4a6" stroke-width="4" rx="40"/>
+  <text x="3200" y="1930" text-anchor="middle" font-size="50" font-family="Arial" font-weight="bold" fill="#000">science.brillenbar.org</text>
+  <text x="3200" y="2000" text-anchor="middle" font-size="36" font-family="Arial" fill="#333">(ou pch.brillenbar.org)</text>
+  <text x="3200" y="2060" text-anchor="middle" font-size="34" font-family="Arial" fill="#555">Synchronise avec GitHub - Versions Zenodo (DOI)</text>
+
+  <rect x="1800" y="2080" width="600" height="300" fill="#f8fbff" stroke="#b5c4d8" stroke-width="4" rx="40"/>
+  <text x="2100" y="2230" text-anchor="middle" font-size="44" font-family="Arial" font-weight="bold" fill="#000">GitHub - pch-open</text>
+  <text x="2100" y="2300" text-anchor="middle" font-size="34" font-family="Arial" fill="#555">Code - Site - Documents - CNAME</text>
+
+  <rect x="3400" y="2080" width="600" height="300" fill="#f8fbff" stroke="#b5c4d8" stroke-width="4" rx="40"/>
+  <text x="3700" y="2230" text-anchor="middle" font-size="44" font-family="Arial" font-weight="bold" fill="#000">Zenodo - DOI</text>
+  <text x="3700" y="2300" text-anchor="middle" font-size="34" font-family="Arial" fill="#555">Archive permanente - References academiques</text>
+
+  <text x="2100" y="2850" text-anchor="middle" font-size="34" font-family="Arial" fill="#777">© BRILLENBAR - Physique Champtique - Modele C (Portail -> Deux entrees) - 2025</text>
+</svg>
